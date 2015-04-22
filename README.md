@@ -1,2 +1,2 @@
 # craigscraper
-craigslist scraper application
+a simple craigslist scraper application
